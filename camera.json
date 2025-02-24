@@ -1,0 +1,50 @@
+[
+  {
+    "Index": 0,
+    "PathIndex": 0,
+    "FocalDistance": 2.0,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Position": {
+      "X": -3.80669355,
+      "Y": 1.49980593,
+      "Z": -2.47222757
+    },
+    "Rotation": {
+      "X": 2.09999442,
+      "Y": 179.012253,
+      "Z": -1.66864722E-09
+    }
+  },
+  {
+    "Index": 1,
+    "PathIndex": 0,
+    "FocalDistance": 2.0,
+    "Aperture": 15.0,
+    "Hue": 120.0,
+    "Saturation": 100.0,
+    "Lightness": 50.0,
+    "LookAtMeXOffset": 0.0,
+    "LookAtMeYOffset": 0.0,
+    "Zoom": 45.0,
+    "Speed": 3.0,
+    "Duration": 2.0,
+    "Position": {
+      "X": -4.964855,
+      "Y": 1.49980593,
+      "Z": -2.49219561
+    },
+    "Rotation": {
+      "X": 2.09999442,
+      "Y": 179.012253,
+      "Z": -1.66864722E-09
+    }
+  }
+]
